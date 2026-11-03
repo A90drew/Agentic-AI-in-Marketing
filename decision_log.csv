@@ -1,0 +1,64 @@
+date,channel,old_budget,new_budget,change_pct,reason
+2026-10-01,Search,100.0,100.0,0.0,"Day 1: no history yet, so start with the equal split."
+2026-10-01,Social,100.0,100.0,0.0,"Day 1: no history yet, so start with the equal split."
+2026-10-01,Display,100.0,100.0,0.0,"Day 1: no history yet, so start with the equal split."
+2026-10-02,Search,100.0,115.0,0.15,"Search +15.0% ($100.00 -> $115.00): best conversions per dollar over the last 1 day(s) (CPA $10.00, CVR 5.0%) vs Display CPA $16.67. Size set by the 15% daily step."
+2026-10-02,Social,100.0,100.0,0.0,No change: neither the top performer nor today's donor.
+2026-10-02,Display,100.0,85.0,-0.15,Display -15.0% ($100.00 -> $85.00): funds Search; weakest channel with room to give (CPA $16.67). Stays above $30 so it keeps generating data.
+2026-10-03,Search,115.0,132.25,0.15,"Search +15.0% ($115.00 -> $132.25): best conversions per dollar over the last 2 day(s) (CPA $11.99, CVR 4.1%) vs Social CPA $18.18. Size set by the 15% daily step."
+2026-10-03,Social,100.0,82.75,-0.1725,Social -17.2% ($100.00 -> $82.75): funds Search; weakest channel with room to give (CPA $18.18). Stays above $30 so it keeps generating data.
+2026-10-03,Display,85.0,85.0,0.0,No change: neither the top performer nor today's donor.
+2026-10-04,Search,132.25,149.25,0.1285444234404537,"Search +12.9% ($132.25 -> $149.25): best conversions per dollar over the last 3 day(s) (CPA $15.04, CVR 3.4%) vs Display CPA $22.41. Size set by Display's -20% daily limit."
+2026-10-04,Social,82.75,82.75,0.0,No change: neither the top performer nor today's donor.
+2026-10-04,Display,85.0,68.0,-0.2,Display -20.0% ($85.00 -> $68.00): funds Search; weakest channel with room to give (CPA $22.41). Stays above $30 so it keeps generating data.
+2026-10-05,Search,149.25,162.85,0.09112227805695139,"Search +9.1% ($149.25 -> $162.85): best conversions per dollar over the last 4 day(s) (CPA $13.27, CVR 3.8%) vs Display CPA $26.50. Size set by Display's -20% daily limit."
+2026-10-05,Social,82.75,82.75,0.0,No change: neither the top performer nor today's donor.
+2026-10-05,Display,68.0,54.4,-0.2,Display -20.0% ($68.00 -> $54.40): funds Search; weakest channel with room to give (CPA $26.50). Stays above $30 so it keeps generating data.
+2026-10-06,Search,162.85,173.73,0.06680994780472825,"Search +6.7% ($162.85 -> $173.73): best conversions per dollar over the last 5 day(s) (CPA $12.83, CVR 4.0%) vs Display CPA $27.08. Size set by Display's -20% daily limit."
+2026-10-06,Social,82.75,82.75,0.0,No change: neither the top performer nor today's donor.
+2026-10-06,Display,54.4,43.519999999999996,-0.20000000000000004,Display -20.0% ($54.40 -> $43.52): funds Search; weakest channel with room to give (CPA $27.08). Stays above $30 so it keeps generating data.
+2026-10-07,Search,173.73,180.0,0.036090485235710644,"Search +3.6% ($173.73 -> $180.00): best conversions per dollar over the last 5 day(s) (CPA $14.31, CVR 3.7%) vs Display CPA $35.61. Size set by Search's $180 maximum."
+2026-10-07,Social,82.75,82.75,0.0,No change: neither the top performer nor today's donor.
+2026-10-07,Display,43.519999999999996,37.249999999999986,-0.14407169117647084,Display -14.4% ($43.52 -> $37.25): funds Search; weakest channel with room to give (CPA $35.61). Stays above $30 so it keeps generating data.
+2026-10-08,Search,180.0,180.0,0.0,HOLD: Search is the best performer (CPA $14.92) but cannot grow: limited by Search's $180 maximum.
+2026-10-08,Social,82.75,82.75,0.0,HOLD: Search is the best performer (CPA $14.92) but cannot grow: limited by Search's $180 maximum.
+2026-10-08,Display,37.249999999999986,37.249999999999986,0.0,HOLD: Search is the best performer (CPA $14.92) but cannot grow: limited by Search's $180 maximum.
+2026-10-09,Search,180.0,180.0,0.0,HOLD: Search is the best performer (CPA $12.95) but cannot grow: limited by Search's $180 maximum.
+2026-10-09,Social,82.75,82.75,0.0,HOLD: Search is the best performer (CPA $12.95) but cannot grow: limited by Search's $180 maximum.
+2026-10-09,Display,37.249999999999986,37.249999999999986,0.0,HOLD: Search is the best performer (CPA $12.95) but cannot grow: limited by Search's $180 maximum.
+2026-10-10,Search,180.0,180.0,0.0,HOLD: Search is the best performer (CPA $14.33) but cannot grow: limited by Search's $180 maximum.
+2026-10-10,Social,82.75,82.75,0.0,HOLD: Search is the best performer (CPA $14.33) but cannot grow: limited by Search's $180 maximum.
+2026-10-10,Display,37.249999999999986,37.249999999999986,0.0,HOLD: Search is the best performer (CPA $14.33) but cannot grow: limited by Search's $180 maximum.
+2026-10-11,Search,180.0,180.0,0.0,HOLD: Search is the best performer (CPA $14.30) but cannot grow: limited by Search's $180 maximum.
+2026-10-11,Social,82.75,82.75,0.0,HOLD: Search is the best performer (CPA $14.30) but cannot grow: limited by Search's $180 maximum.
+2026-10-11,Display,37.249999999999986,37.249999999999986,0.0,HOLD: Search is the best performer (CPA $14.30) but cannot grow: limited by Search's $180 maximum.
+2026-10-12,Search,180.0,180.0,0.0,HOLD: Search is the best performer (CPA $11.78) but cannot grow: limited by Search's $180 maximum.
+2026-10-12,Social,82.75,82.75,0.0,HOLD: Search is the best performer (CPA $11.78) but cannot grow: limited by Search's $180 maximum.
+2026-10-12,Display,37.249999999999986,37.249999999999986,0.0,HOLD: Search is the best performer (CPA $11.78) but cannot grow: limited by Search's $180 maximum.
+2026-10-13,Search,180.0,180.0,0.0,HOLD: Search is the best performer (CPA $11.05) but cannot grow: limited by Search's $180 maximum.
+2026-10-13,Social,82.75,82.75,0.0,HOLD: Search is the best performer (CPA $11.05) but cannot grow: limited by Search's $180 maximum.
+2026-10-13,Display,37.249999999999986,37.249999999999986,0.0,HOLD: Search is the best performer (CPA $11.05) but cannot grow: limited by Search's $180 maximum.
+2026-10-14,Search,180.0,180.0,0.0,HOLD: Search is the best performer (CPA $11.05) but cannot grow: limited by Search's $180 maximum.
+2026-10-14,Social,82.75,82.75,0.0,HOLD: Search is the best performer (CPA $11.05) but cannot grow: limited by Search's $180 maximum.
+2026-10-14,Display,37.249999999999986,37.249999999999986,0.0,HOLD: Search is the best performer (CPA $11.05) but cannot grow: limited by Search's $180 maximum.
+2026-10-15,Search,180.0,180.0,0.0,HOLD: Search is the best performer (CPA $10.82) but cannot grow: limited by Search's $180 maximum.
+2026-10-15,Social,82.75,82.75,0.0,HOLD: Search is the best performer (CPA $10.82) but cannot grow: limited by Search's $180 maximum.
+2026-10-15,Display,37.249999999999986,37.249999999999986,0.0,HOLD: Search is the best performer (CPA $10.82) but cannot grow: limited by Search's $180 maximum.
+2026-10-16,Search,180.0,180.0,0.0,HOLD: Search is the best performer (CPA $10.20) but cannot grow: limited by Search's $180 maximum.
+2026-10-16,Social,82.75,82.75,0.0,HOLD: Search is the best performer (CPA $10.20) but cannot grow: limited by Search's $180 maximum.
+2026-10-16,Display,37.249999999999986,37.249999999999986,0.0,HOLD: Search is the best performer (CPA $10.20) but cannot grow: limited by Search's $180 maximum.
+2026-10-17,Search,180.0,180.0,0.0,No change: neither the top performer nor today's donor.
+2026-10-17,Social,82.75,89.99999999999999,0.08761329305135934,"Social +8.8% ($82.75 -> $90.00): best conversions per dollar over the last 5 day(s) (CPA $11.15, CVR 6.1%) vs Display CPA $30.20. Size set by Display's $30 minimum."
+2026-10-17,Display,37.249999999999986,30.0,-0.19463087248322117,Display -19.5% ($37.25 -> $30.00): funds Social; weakest channel with room to give (CPA $30.20). Stays above $30 so it keeps generating data.
+2026-10-18,Search,180.0,166.5,-0.075,Search -7.5% ($180.00 -> $166.50): funds Social; weakest channel with room to give (CPA $12.05). Stays above $30 so it keeps generating data.
+2026-10-18,Social,89.99999999999999,103.49999999999999,0.15000000000000002,"Social +15.0% ($90.00 -> $103.50): best conversions per dollar over the last 5 day(s) (CPA $9.95, CVR 6.8%) vs Search CPA $12.05. Size set by the 15% daily step."
+2026-10-18,Display,30.0,30.0,0.0,No change: neither the top performer nor today's donor.
+2026-10-19,Search,166.5,150.975,-0.09324324324324328,Search -9.3% ($166.50 -> $150.97): funds Social; weakest channel with room to give (CPA $14.19). Stays above $30 so it keeps generating data.
+2026-10-19,Social,103.49999999999999,119.02499999999998,0.14999999999999994,"Social +15.0% ($103.50 -> $119.02): best conversions per dollar over the last 5 day(s) (CPA $10.32, CVR 6.6%) vs Search CPA $14.19. Size set by the 15% daily step."
+2026-10-19,Display,30.0,30.0,0.0,No change: neither the top performer nor today's donor.
+2026-10-20,Search,150.975,133.12125,-0.11825633383010427,Search -11.8% ($150.97 -> $133.12): funds Social; weakest channel with room to give (CPA $15.61). Stays above $30 so it keeps generating data.
+2026-10-20,Social,119.02499999999998,136.87874999999997,0.14999999999999994,"Social +15.0% ($119.02 -> $136.88): best conversions per dollar over the last 5 day(s) (CPA $9.39, CVR 7.1%) vs Search CPA $15.61. Size set by the 15% daily step."
+2026-10-20,Display,30.0,30.0,0.0,No change: neither the top performer nor today's donor.
+2026-10-21,Search,133.12125,112.5894375,-0.15423392208231218,Search -15.4% ($133.12 -> $112.59): funds Social; weakest channel with room to give (CPA $19.16). Stays above $30 so it keeps generating data.
+2026-10-21,Social,136.87874999999997,157.41056249999997,0.15000000000000005,"Social +15.0% ($136.88 -> $157.41): best conversions per dollar over the last 5 day(s) (CPA $10.99, CVR 6.2%) vs Search CPA $19.16. Size set by the 15% daily step."
+2026-10-21,Display,30.0,30.0,0.0,No change: neither the top performer nor today's donor.
