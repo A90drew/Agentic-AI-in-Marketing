@@ -5,7 +5,7 @@ Display to maximize total conversions. Each day it learns from recent results,
 shifts budget toward the most efficient channel within guardrails, and logs a
 reason for every decision. It is compared against an equal-split baseline.
 
-**Group members:** Andrew Rivas, Mohamed Ibrahim, Santos Sandoval, Yaqub Dayib, Noel Bustos, Matthew Throne
+**Group members (Barca Group):** Andrew Rivas, Mohamed Ibrahim, Santos Sandoval, Yaqub Dayib, Noel Bustos, Matthew Throne
 
 ## How to run
 
